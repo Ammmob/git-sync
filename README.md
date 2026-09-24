@@ -25,7 +25,6 @@ interval. Each project can run automatically or be synchronized on demand.
 - Choose a platform default, a specific Token, or existing system Git credentials.
 - Stop automatic integration when conflicts or unfinished Git operations are detected.
 - Sort the project list by any column.
-- Switch between system, light, and dark themes.
 - Run as a Windows desktop application without installing Python or Node.js.
 
 ## 📋 Roadmap
