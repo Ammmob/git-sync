@@ -1,0 +1,9 @@
+﻿Platform marks
+
+GitHub: https://github.githubassets.com/favicons/favicon.png
+Overleaf: https://www.overleaf.com/favicon.ico
+
+These marks identify supported services. They are trademarks of their respective
+owners. The Git Sync application icon is drawn specifically for this project.
+
+Dependency licenses are retained in their upstream packages and lockfiles.
