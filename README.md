@@ -24,7 +24,6 @@ interval. Each project can run automatically or be synchronized on demand.
 - Store multiple named Tokens per platform and display only masked values.
 - Choose a platform default, a specific Token, or existing system Git credentials.
 - Stop automatic integration when conflicts or unfinished Git operations are detected.
-- Sort the project list by any column.
 - Run as a Windows desktop application without installing Python or Node.js.
 
 ## 📋 Roadmap
