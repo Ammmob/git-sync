@@ -16,15 +16,12 @@ interval. Each project can run automatically or be synchronized on demand.
 
 ## ✨ Highlights
 
-- Manage Overleaf and GitHub projects together, with platform filters and search.
-- Fetch remote changes, commit local edits, merge compatible histories, and push updates.
-- Set a global interval or override it for individual projects.
-- Select projects to start, pause, or delete in bulk, or pause/resume all projects.
-- Open repository folders and inspect recent sync records.
-- Store multiple named Tokens per platform and display only masked values.
-- Choose a platform default, a specific Token, or existing system Git credentials.
-- Stop automatic integration when conflicts or unfinished Git operations are detected.
-- Run as a Windows desktop application without installing Python or Node.js.
+- Two-way auto-sync: fetch remote changes, commit local edits, merge compatible histories, and push updates.
+- Unified management for Overleaf and GitHub projects, with platform filters and search.
+- Flexible scheduling: a global interval, per-project overrides, and on-demand manual sync.
+- Safe by default: detects conflicts or unfinished Git operations and pauses automatic integration for review.
+- Credential management: multiple masked Tokens per platform, with platform default, per-project Token, or system Git credentials.
+- Bulk operations: start, pause, or delete selected projects, or pause/resume all.
 
 ## 📋 Roadmap
 
